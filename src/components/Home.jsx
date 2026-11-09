@@ -159,3 +159,4 @@ export default function Home({ onStartPractice, durationMinutes = 5 }) {
     </div>
   );
 }
+

@@ -35,3 +35,4 @@ export default function Timer({ timeLeft, totalDuration = 300, isPaused }) {
     </div>
   );
 }
+

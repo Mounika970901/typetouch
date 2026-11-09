@@ -36,3 +36,4 @@ export default function Header({ isMuted, onToggleMute, onGoHome, isStarted, isF
     </header>
   );
 }
+

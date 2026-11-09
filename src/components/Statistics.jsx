@@ -64,3 +64,4 @@ export default function Statistics({ totalKeys, correctKeys, incorrectKeys, accu
     </div>
   );
 }
+

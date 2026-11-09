@@ -77,3 +77,4 @@ test('Accuracy formula calculations match PRD FR-06', () => {
   const accuracyNone = (correctNone / totalAllWrong) * 100;
   assert.equal(accuracyNone, 0);
 });
+
